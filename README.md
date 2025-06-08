@@ -26,7 +26,7 @@ Welcome to my GitHub! I'm a Fullstack & AI Developer based in Dubai. My work liv
 - Engineered the system to work across multiple time windows and lags
 
 ### 🎮 **Baloot iOS Game**
-- Created an offline Baloot card game with Swift and AI-based opponents in just 16 days
+- Created an offline Baloot card game with Swift and rule-based bot opponents in just 16 days
 - Working on a multiplayer version for potential App Store launch
 
 ### 🖼️ **Art Gallery Web Platform – Fullstack Developer & Designer**
