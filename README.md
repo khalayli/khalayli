@@ -41,7 +41,7 @@ Welcome to my GitHub! I'm a Fullstack & AI Developer based in Dubai. My work liv
 ## 🛠️ Tech Stack & Skills
 
 **Languages:** Python, Java, C++, Swift, Javascript  
-**Web & Mobile:** React, React Native, Next.js, Tailwind, Expo Router, Typescript
+**Web & Mobile:** React, React Native, Next.js, Tailwind, Expo Router, Typescript  
 **iOS Dev:** MVVM, unit testing, state management, animations  
 **Data Science:** Pandas, NumPy, Matplotlib, Plotly, Seaborn, Folium  
 **AI/ML:** YOLO, LLMs, Neural Networks, Scikit-learn  
