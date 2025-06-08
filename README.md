@@ -78,4 +78,4 @@ I’m a classically trained violinist and pianist who enjoys the balance that mu
 
 ---
 
-If you're interested in AI, creative software development, or want to collaborate on something cool, feel free to reach out. I'm also open to freelance opportunities and would love to hear about any projects you have in mind.
+If you're interested in AI, creative software development, or want to collaborate on something cool, feel free to reach out. I'm also open to freelance opportunities and would love to hear about any projects you have in mind. Portfolio on request.
