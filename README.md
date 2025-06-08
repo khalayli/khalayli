@@ -19,7 +19,7 @@ Welcome to my GitHub! I'm a Fullstack & AI Developer based in Dubai. My work liv
 
 ### 🧬 **Bio-Inspired vs Deep Learning Object Recognition**
 - Led capstone research comparing neural networks and bio-inspired models
-- Our project was awarded in AUS’s Engineering Senior Design Competition
+- Our robot's project was awarded in AUS’s Engineering Senior Design Competition
 
 ### 📊 **Bitcoin Sentiment & Price Correlation**
 - Built a Python pipeline to analyze public sentiment and price movement of Bitcoin
