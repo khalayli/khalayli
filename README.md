@@ -45,8 +45,8 @@ Welcome to my GitHub! I'm a Fullstack & AI Developer based in Dubai. My work liv
 **iOS Dev:** MVVM, unit testing, state management, animations  
 **Data Science:** Pandas, NumPy, Matplotlib, Plotly, Seaborn, Folium  
 **AI/ML:** YOLO, LLMs, Neural Networks, Scikit-learn  
-**Cloud & DevOps:** Docker, Flask, REST APIs, Azure, PostgreSQL, Oracle SQL, MongoDB 
-**Tools:** Git, Jupyter, VS Code, Xcode, Postman  
+**Cloud & DevOps:** Docker, Flask, REST APIs, Azure, PostgreSQL, Oracle SQL, MongoDB  
+**Tools:** Git, Jupyter, VS Code, Cursor, Pycharm, Xcode    
 
 ---
 
