@@ -43,7 +43,7 @@ Welcome to my GitHub! I'm a Fullstack & AI Developer based in Dubai. My work liv
 **Languages:** Python, Java, C++, Swift, Javascript  
 **Web & Mobile:** React, React Native, Next.js, Tailwind, Expo Router, Typescript  
 **iOS Dev:** MVVM, unit testing, state management, animations  
-**Data Science:** Pandas, NumPy, Matplotlib, Plotly, Seaborn, Folium  
+**Data Science:** Pandas, NumPy, Matplotlib, Plotly, Seaborn, Folium, Spark
 **AI/ML:** YOLO, LLMs, Neural Networks, Scikit-learn  
 **Cloud & DevOps:** Docker, Flask, REST APIs, Azure, PostgreSQL, Oracle SQL, MongoDB  
 **Tools:** Git, Jupyter, VS Code, Cursor, Pycharm, Xcode    
@@ -74,7 +74,7 @@ I’m a classically trained violinist and pianist who enjoys the balance that mu
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/khalayli)  
 - 📧 s.khalayli12@gmail.com  
-- 🌍 Dubai, UAE
+- 🌍 Montreal, QC
 
 ---
 
