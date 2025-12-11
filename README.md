@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Sami K.
 
-Welcome to my GitHub! I'm a Fullstack & AI Developer based in Dubai. My work lives at the intersection of machine learning, full-stack development, creative problem solving aand designing user-friendly interfaces. I enjoy breaking down complex challenges and building products with real use cases and most importantly, enhancing user experience in any problem domain.
+Welcome to my GitHub! I'm a Fullstack & AI Developer based in Montreal. My work lives at the intersection of machine learning, full-stack development, creative problem solving aand designing user-friendly interfaces. I enjoy breaking down complex challenges and building products with real use cases and most importantly, enhancing user experience in any problem domain.
 
 ---
 
