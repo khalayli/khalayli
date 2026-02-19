@@ -12,10 +12,10 @@ Welcome to my GitHub! I'm a Fullstack & AI Developer based in Montreal. My work 
 
 ## 🧠 Projects I’m Proud Of
 
-### 🚗 **Car Damage Detection at Beno AI**
+### 🚗 **Car Damage Detection **
 - Built and deployed a YOLOv9 Compact Segmentation model to detect vehicle damages with over 83 percent mAP50
 - Packaged into a cloud-based app using Flask and Docker
-- Live at: [scan.beno.com](https://scan.beno.com)
+- [Was] Live at: [scan.beno.com](https://scan.beno.com)
 
 ### 🧬 **Bio-Inspired vs Deep Learning Object Recognition**
 - Led capstone research comparing neural networks and bio-inspired models
@@ -61,6 +61,7 @@ Welcome to my GitHub! I'm a Fullstack & AI Developer based in Montreal. My work 
 
 - Advanced Web development  
 - LLMs from scratch
+- ML Theory
 
 ---
 
@@ -73,7 +74,6 @@ I’m a classically trained violinist and pianist who enjoys the balance that mu
 ## 📫 Let’s Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/khalayli)  
-- 📧 s.khalayli12@gmail.com  
 - 🌍 Montreal, QC
 
 ---
