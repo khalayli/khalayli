@@ -59,7 +59,6 @@ Welcome to my GitHub! I'm a Fullstack & AI Developer based in Montreal. My work 
 
 ## 🌱 Currently Learning
 
-- Advanced Web development  
 - LLMs from scratch
 - ML Theory
 
