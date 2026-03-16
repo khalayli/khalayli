@@ -45,7 +45,7 @@ Welcome to my GitHub! I'm a Fullstack & AI Developer based in Montreal. My work 
 **iOS Dev:** MVVM, unit testing, state management, animations  
 **Data Science:** Pandas, NumPy, Matplotlib, Plotly, Seaborn, Folium, Spark
 **AI/ML:** YOLO, LLMs, Neural Networks, Scikit-learn  
-**Cloud & DevOps:** Docker, Flask, REST APIs, Azure, PostgreSQL, Oracle SQL, MongoDB  
+**Cloud & DevOps:** Docker, Flask, REST APIs, Azure, PostgreSQL, Oracle SQL
 **Tools:** Git, Jupyter, VS Code, Cursor, Pycharm, Xcode    
 
 ---
