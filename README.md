@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Sami K.
 
-Welcome to my GitHub! I'm a Fullstack & AI Developer based in Montreal. My work lives at the intersection of machine learning, full-stack development, creative problem solving aand designing user-friendly interfaces. I enjoy breaking down complex challenges and building products with real use cases and most importantly, enhancing user experience in any problem domain.
+My work lives at the intersection of machine learning, full-stack development, creative problem solving aand designing user-friendly interfaces. I enjoy breaking down complex challenges and building products with real use cases and most importantly, enhancing user experience in any problem domain.
 
 ---
 
@@ -12,7 +12,7 @@ Welcome to my GitHub! I'm a Fullstack & AI Developer based in Montreal. My work 
 
 ## 🧠 Projects I’m Proud Of
 
-### 🚗 **Car Damage Detection **
+### 🚗 **Car Damage Detection**
 - Built and deployed a YOLOv9 Compact Segmentation model to detect vehicle damages with over 83 percent mAP50
 - Packaged into a cloud-based app using Flask and Docker
 - [Was] Live at: [scan.beno.com](https://scan.beno.com)
@@ -43,9 +43,9 @@ Welcome to my GitHub! I'm a Fullstack & AI Developer based in Montreal. My work 
 **Languages:** Python, Java, C++, Swift, Javascript  
 **Web & Mobile:** React, React Native, Next.js, Tailwind, Expo Router, Typescript  
 **iOS Dev:** MVVM, unit testing, state management, animations  
-**Data Science:** Pandas, NumPy, Matplotlib, Plotly, Seaborn, Folium, Spark
+**Data Science:** Pandas, NumPy, Matplotlib, Plotly, Seaborn, Folium, Spark  
 **AI/ML:** YOLO, LLMs, Neural Networks, Scikit-learn  
-**Cloud & DevOps:** Docker, Flask, REST APIs, Azure, PostgreSQL, Oracle SQL
+**Cloud & DevOps:** Docker, Flask, REST APIs, Azure, PostgreSQL, Oracle SQL  
 **Tools:** Git, Jupyter, VS Code, Cursor, Pycharm, Xcode    
 
 ---
@@ -76,5 +76,4 @@ I’m a classically trained violinist and pianist who enjoys the balance that mu
 - 🌍 Montreal, QC
 
 ---
-
-If you're interested in AI, creative software development, or want to collaborate on something cool, feel free to reach out. I'm also open to freelance opportunities and would love to hear about any projects you have in mind. Portfolio on request.
+I'm also open to freelance opportunities and would love to hear about any projects you have in mind. Portfolio on request.
