@@ -23,7 +23,7 @@ I build production web applications, backend services, data pipelines, and compu
 
 ## Stack
 
-Python · scikit-learn · React · Next.js · Docker · PostgreSQL · Azure
+Python · Java · scikit-learn · React · Next.js · Docker · PostgreSQL · Azure
 
 ## Links
 
